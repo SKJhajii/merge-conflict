@@ -6,7 +6,6 @@ Initial Function()
 
 
 security patch fixing
->>>>>>> feature1
 Initial Security()
 {
  //Sample Code
@@ -15,4 +14,7 @@ Initial Security()
 
 
 }
-security issue not fixed
+
+=======
+security issue fixed
+
